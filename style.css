@@ -21,6 +21,7 @@ p {
     display: flex;
     background-image: url(images/mybg-1.png);
     background-repeat: no-repeat;
+    padding-bottom: 5%;
     
 
 }
@@ -77,6 +78,39 @@ p {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
+    margin-bottom: 5%;
 
+}
+
+.memory {
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.memory-part {
+    width: 40%;
+    box-shadow: 15px 15px 30px rgb(151, 147, 147);
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+    color: orangered;
+    border-left: 4px solid orange;
+    margin-bottom: 10%;
+
+}
+
+.hcolor {
+    color:blueviolet
+}
+
+.hshape {
+    color:green;
+    margin-left: 5%;
+
+}
+footer p {
+    text-align: center;
 }
