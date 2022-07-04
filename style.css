@@ -1,38 +1,45 @@
-body{   
+body {
     margin: 0px;
     font-family: 'Hind Siliguri', sans-serif;
-
-}
-h1 {
-
 }
 
-h3{
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red, silver);
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-weight: 500;
+    border-radius: 10px;
 
 }
+
 p {
     text-align: justify;
 }
 
 section {
-    display:flex;
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 
 }
+
 .half-width {
     width: 50%;
     padding-left: 5%;
     margin-top: 2%;
-    
+
 }
 
 .half-width img {
-    width: 75%;
-    padding-left: 2%;
+    width: 90%;
+    padding-left: 8%;
 }
 
 .m1 {
     color: green;
-} 
+}
+
 .m2 {
     color: red;
 }
