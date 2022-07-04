@@ -1,0 +1,38 @@
+body{   
+    margin: 0px;
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+h1 {
+
+}
+
+h3{
+
+}
+p {
+    text-align: justify;
+}
+
+section {
+    display:flex;
+
+}
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 2%;
+    
+}
+
+.half-width img {
+    width: 75%;
+    padding-left: 2%;
+}
+
+.m1 {
+    color: green;
+} 
+.m2 {
+    color: red;
+}
