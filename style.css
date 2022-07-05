@@ -22,7 +22,7 @@ p {
     background-image: url(images/mybg-1.png);
     background-repeat: no-repeat;
     padding-bottom: 5%;
-    
+
 
 }
 
@@ -65,9 +65,10 @@ p {
 }
 
 .d1 {
-    color:palevioletred;
+    color: palevioletred;
 }
-.dream-link { 
+
+.dream-link {
     text-decoration: none;
     background-image: linear-gradient(pink, rgb(241, 106, 129));
     padding: 10px 20px;
@@ -77,6 +78,7 @@ p {
 
 
 }
+
 .big-dream {
     display: flex;
     background-image: url(images/dream-bg.png);
@@ -93,6 +95,7 @@ p {
     background-repeat: no-repeat;
     background-position: left;
 }
+
 .memory-part {
     width: 40%;
     box-shadow: 10px 10px 30px rgb(151, 147, 147);
@@ -110,19 +113,26 @@ p {
     border-left: 7px solid green;
     padding-left: 5%;
 }
+
 #memory-partlow {
     border-left: 7px solid red;
 }
 
 .hcolor {
-    color:blueviolet
+    color: blueviolet
 }
 
 .hshape {
-    color:green;
+    color: green;
     margin-left: 5%;
 
 }
+
 footer p {
     text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    margin: 20px, 0px;
+    padding: 20px 30px;
+
 }
